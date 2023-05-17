@@ -52,11 +52,11 @@ GPU is preferred, but not necessary. Machine with GPU can perform the training f
 
 <div style="display:flex">
     <div style="flex:50%; padding:5px;">
-        <img src="./Photos/epoch_0.jpeg" alt="Epoch 0" title="At Epoch 0" width="600" height="400">
+        <img src="./Photos/epoch_0.jpeg" alt="Epoch 0" title="At Epoch 0" width="240" height="400">
         <p style="text-align:center;">Image at epoch 0</p>
     </div>
     <div style="flex:50%; padding:5px;">
-        <img src="./Photos/epoch_50.jpeg" alt="Epoch 50" title="At Epoch 50" width="600" height="400">
+        <img src="./Photos/epoch_50.jpeg" alt="Epoch 50" title="At Epoch 50" width="240" height="400">
         <p style="text-align:center;">Image at epoch 50</p>
     </div>
 </div>
